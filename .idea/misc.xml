@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/employees-app" />
+    <file type="web" url="file://$PROJECT_DIR$/executable-war/jetty" />
+    <file type="web" url="file://$PROJECT_DIR$/executable-war/non-executable" />
+    <file type="web" url="file://$PROJECT_DIR$/executable-war/tomcat" />
+    <file type="web" url="file://$PROJECT_DIR$/executable-war/winstone" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/example1/pom.xml" />
+        <option value="$PROJECT_DIR$/devcenter-embedded-tomcat-master/pom.xml" />
+        <option value="$PROJECT_DIR$/tomcat-9-embedded-master/pom.xml" />
+        <option value="$PROJECT_DIR$/employees-app/pom.xml" />
+        <option value="$PROJECT_DIR$/executable-war-sample-master/pom.xml" />
+        <option value="$PROJECT_DIR$/tomcat-9-embedded/pom.xml" />
+        <option value="$PROJECT_DIR$/exampletwo/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="1.8.0_201" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="winstone-sample:war">
+    <output-path>$PROJECT_DIR$/executable-war/winstone/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>winstone-sample</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="sample.war">
+      <element id="artifact" artifact-name="winstone-sample:war exploded" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="employees-app" />
+        <module name="tomcat-9-embedded" />
+        <module name="exampletwo" />
+        <module name="example1" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="embeddedTomcatSample" target="1.8" />
+      <module name="employees-app" target="1.8" />
+      <module name="example1" target="1.8" />
+      <module name="exampletwo" target="1.8" />
+      <module name="executable-war" target="1.5" />
+      <module name="jetty-sample" target="1.7" />
+      <module name="non-executable-sample" target="1.7" />
+      <module name="tomcat-9-embedded" target="1.8" />
+      <module name="tomcat-sample" target="1.7" />
+      <module name="winstone-sample" target="1.7" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
